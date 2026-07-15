@@ -80,25 +80,27 @@ NumPy • Pandas • Scikit-learn • LangChain • ChromaDB • Transformers
 </p>
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Almawdev5&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Almawdev5&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
----
-
-# 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Almawdev5&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Almawdev5&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Almawdev5&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Almawdev5&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
