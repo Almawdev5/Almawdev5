@@ -99,10 +99,10 @@ NumPy • Pandas • Scikit-learn • LangChain • ChromaDB • Transformers
 </p>
 
 ---
-# 🏆 GitHub Trophies
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Almawdev5&theme=onedark&no-frame=true&column=6"/>
+  <img src="https://raw.githubusercontent.com/Almawdev5/Almawdev5/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ---
 
