@@ -84,15 +84,9 @@ NumPy • Pandas • Scikit-learn • LangChain • ChromaDB • Transformers
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Almawdev5&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almawdev5&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Almawdev5&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Almawdev5&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 ---
 
@@ -109,9 +103,7 @@ NumPy • Pandas • Scikit-learn • LangChain • ChromaDB • Transformers
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Almawdev5&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Almawdev5&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 ---
 
