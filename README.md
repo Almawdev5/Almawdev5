@@ -21,3 +21,50 @@ I'm passionate about building modern web applications, mobile applications, and 
 - Land a Software Engineering Internship
 
 📍 Addis Ababa, Ethiopia
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,sql" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**Framework:** React Native (Expo)
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase" />
+</p>
+
+### 🤖 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Libraries:** NumPy • Pandas • Scikit-learn • LangChain • ChromaDB
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,render,npm" />
+</p>
