@@ -84,3 +84,31 @@ I'm passionate about building modern web applications, mobile applications, and 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Almawdev5&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+# 🚀 Featured Projects
+
+## 🌐 ReFind Digital Notice Board
+
+A modern digital notice board platform for creating and managing announcements with a clean responsive interface.
+
+### 🛠️ Tech Stack
+HTML • CSS • JavaScript • Supabase • Netlify
+
+✨ Features:
+- User authentication
+- Notice management
+- Responsive design
+- Cloud database
+
+
+## 📸 Mengie Digital Photography
+
+A modern photography portfolio website built to showcase professional galleries and services with an elegant user experience.
+
+### 🛠️ Tech Stack
+HTML • CSS • JavaScript • Vercel
+
+✨ Features:
+- Photography gallery
+- Responsive layout
+- Modern UI design
+- Optimized performance
