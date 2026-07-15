@@ -83,7 +83,14 @@ NumPy • Pandas • Scikit-learn • LangChain • ChromaDB • Transformers
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Almawdev5&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Almawdev5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Almawdev5&layout=compact&theme=tokyonight&hide_border=true"
+    width="40%"
+  />
 </p>
 
 
