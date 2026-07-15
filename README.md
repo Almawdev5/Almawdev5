@@ -1,31 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Mobile+App+Developer;AI+%26+Machine+Learning+Enthusiast;Information+Science+Student" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Mobile+App+Developer;AI+%26+ML+Enthusiast;Information+Science+Student" />
 </p>
 
-<h1 align="center">Hi, I'm Almaw Tadele</h1>
+<h1 align="center">Hi, I'm Almaw Tadele 👋</h1>
 
 <p align="center">
-Full-Stack Developer | Mobile App Developer | AI & Machine Learning Enthusiast
+Building web applications, mobile experiences, and AI-powered solutions.
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an Information Science student passionate about building modern web applications, mobile applications, and AI-powered solutions.
+Information Science student focused on software engineering, full-stack development, mobile applications, and artificial intelligence.
 
-Currently focusing on:
-- Full-Stack Web Development
-- React Native Mobile Development
-- Machine Learning & RAG Systems
-- Cloud Deployment
-- Data Structures & Algorithms
-
-**2026 Goals**
-- Build production-ready applications
-- Master AI Engineering
-- Contribute to Open Source
-- Gain Software Engineering experience
+I enjoy creating practical solutions, exploring emerging technologies, and improving my problem-solving skills through continuous learning.
 
 📍 Addis Ababa, Ethiopia
 
@@ -33,23 +22,27 @@ Currently focusing on:
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,sql"/>
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,angular"/>
 </p>
 
-### Backend Development
+Building responsive and modern user interfaces.
+
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi"/>
 </p>
+
+Developing APIs, backend services, and scalable applications.
 
 ### Mobile Development
 
@@ -59,13 +52,15 @@ Currently focusing on:
 
 React Native • Expo
 
+Creating cross-platform mobile applications.
+
 ### Databases & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase"/>
 </p>
 
-AWS • Vercel • Netlify • Render
+Cloud deployment with AWS, Vercel, Netlify, and Render.
 
 ### AI & Data Science
 
@@ -73,7 +68,10 @@ AWS • Vercel • Netlify • Render
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-NumPy • Pandas • Matplotlib • Scikit-learn • LangChain • ChromaDB • Transformers
+Machine Learning • RAG Systems • Data Analysis • LLM Applications
+
+Tools:
+NumPy • Pandas • Scikit-learn • LangChain • ChromaDB • Transformers
 
 ### Tools
 
@@ -86,8 +84,11 @@ NumPy • Pandas • Matplotlib • Scikit-learn • LangChain • ChromaDB • 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almawdev5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almawdev5&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almawdev5&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -95,7 +96,9 @@ NumPy • Pandas • Matplotlib • Scikit-learn • LangChain • ChromaDB • 
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Almawdev5&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -103,7 +106,19 @@ NumPy • Pandas • Matplotlib • Scikit-learn • LangChain • ChromaDB • 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Almawdev5&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Almawdev5&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Almawdev5&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 </p>
 
 ---
@@ -112,27 +127,27 @@ NumPy • Pandas • Matplotlib • Scikit-learn • LangChain • ChromaDB • 
 
 ## 🌐 ReFind Digital Notice Board
 
-A modern digital notice board platform for creating and managing announcements through a responsive web interface.
+A digital platform for managing and sharing announcements with a clean and responsive interface.
 
-**Tech Stack:** HTML • CSS • JavaScript • Supabase • Netlify
+**Stack:** JavaScript • Supabase • Netlify
 
-Features:
-- User authentication
-- Notice management
-- Responsive design
-- Cloud database
+Highlights:
+- Authentication system
+- Cloud-based data management
+- Responsive UI
 
 
 ## 📸 Mengie Digital Photography
 
-A modern photography portfolio website built to showcase professional galleries and services.
+A photography portfolio website designed to showcase professional galleries and services.
 
-**Tech Stack:** HTML • CSS • JavaScript • Vercel
+**Stack:** HTML • CSS • JavaScript • Vercel
 
-Features:
-- Photography gallery
-- Responsive layout
-- Modern UI design
+Highlights:
+- Modern gallery design
+- Responsive experience
+- Fast deployment
+
 
 ---
 
@@ -140,24 +155,28 @@ Features:
 
 - RAG Workshop Certificate
 - Claude 101 Certificate
-- GCI Data Science Program (In Progress)
-- AI & Machine Learning Courses
+- GCI Data Science Program
+- AI & Machine Learning Training
 
 ---
 
-# 🎯 Currently Working On
+# 🚀 Currently Exploring
 
-- Full-Stack Web Development
-- React Native Mobile Applications
-- AI Engineering & RAG Systems
-- Data Structures & Algorithms
+- Full-Stack Engineering
+- React Native Development
+- AI Engineering & RAG
 - Cloud Technologies
+- Data Structures & Algorithms
 
 ---
 
 # 🌐 Connect With Me
 
 <p>
+
+<a href="https://alexis-portfolio-sandy.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=vercel"/>
+</a>
 
 <a href="https://github.com/Almawdev5">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
@@ -175,15 +194,14 @@ Features:
 
 ---
 
-# ⚡ Fun Facts
+# ⚡ Beyond Coding
 
-- I enjoy building real-world software projects
-- Exploring AI, Machine Learning, and RAG systems
-- Learning mobile development with React Native
-- Improving problem-solving skills through DSA
+- Building real-world software solutions
+- Exploring AI and emerging technologies
+- Improving engineering skills every day
 
 ---
 
 # ✨ Motto
 
-> "Keep learning, keep building, and never stop improving."
+> "Learn. Build. Improve. Repeat."
