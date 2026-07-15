@@ -112,3 +112,41 @@ HTML • CSS • JavaScript • Vercel
 - Responsive layout
 - Modern UI design
 - Optimized performance
+# 🏅 Certifications
+
+- ✅ RAG Workshop Certificate
+- ✅ Claude 101 Certificate
+- ✅ GCI Data Science Program (In Progress)
+- ✅ AI & Machine Learning Courses
+# 🎯 Currently Working On
+
+- 🌐 Full-Stack Web Development
+- 📱 Mobile App Development with React Native
+- 🤖 AI Engineering & RAG Systems
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Almawdev5">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/almaw-tadele-8794a9366">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:almawtadele0@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+# ⚡ Fun Facts
+
+- 🚀 I enjoy building real-world software projects
+- 🤖 Exploring AI, Machine Learning, and RAG systems
+- 📱 Currently learning React Native for mobile development
+- 🧠 Always improving my problem-solving skills with DSA
+- ☕ I believe consistent learning creates great developers
+  # ✨ Motto
+
+> "Keep learning, keep building, and never stop improving."
