@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Almaw Tadele
 
-<!--
-**Almawdev5/Almawdev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI & Machine Learning Enthusiast | Information Science Student
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications, AI-powered solutions, and continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning**
+- Full-Stack Web Development
+- Mobile app development
+- Machine Learning & Deep Learning
+- RAG (Retrieval-Augmented Generation)
+- Cloud Deployment
+
+🎯 **2026 Goals**
+- Build production-ready full-stack applications
+- Master AI Engineering
+- Contribute to Open Source
+- Land a Software Engineering Internship
+
+📍 Addis Ababa, Ethiopia
